@@ -6,7 +6,8 @@ I build practical software with Python and the web, and I'm growing into AI and 
 Currently looking for **software engineering co-op / internship** opportunities.
 
 - 🎓 B.Sc. Computer Science (in progress), University of Manitoba
-- 🔭 Currently building: a smart expense tracker in Python + SQLite
+- 🚀 Just shipped: [Expense Tracker](https://github.com/omdkpatel810-ops/expense-tracker), a budgeting CLI in Python + SQLite
+- 🔭 Next up: a booking system for a local furniture assembly business
 - 🌱 Learning: data structures & algorithms, SQL, REST APIs, LLM and RAG apps
 - 🗣️ Bilingual: English & French
 - 💼 Before CS: led teams as a retail shift supervisor and worked in a French-language mortgage department, so I bring ownership, clear communication and customer focus to engineering teams
@@ -38,8 +39,8 @@ Ten projects, built one at a time, each going public when it ships.
 
 | Project | What it shows | Status |
 |---|---|---|
-| Expense Tracker | Python, SQLite, data visualization | 🟡 In progress |
-| Flex Booking System | Full-stack app for a real local business | ⚪ Planned |
+| [Expense Tracker](https://github.com/omdkpatel810-ops/expense-tracker) | Python, SQLite migrations, budget alerts, charts · 143 tests, 99.8% coverage | ✅ Shipped |
+| Flex Booking System | Full-stack app for a real local business | 🟡 Up next |
 | PDF Q&A (RAG) | Retrieval-augmented generation | ⚪ Planned |
 | UofM CS Guide | AI course assistant + degree path recommender for UofM students | 🟡 In progress |
 | Lecture Notes AI | Speech-to-text + LLM summaries | ⚪ Planned |
