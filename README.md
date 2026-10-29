@@ -6,7 +6,7 @@ I build practical software with Python and the web, and I'm growing into AI and 
 Currently looking for **software engineering co-op / internship** opportunities.
 
 - 🎓 B.Sc. Computer Science (in progress), University of Manitoba
-- 🚀 Just shipped: [Expense Tracker](https://github.com/omdkpatel810-ops/expense-tracker), a budgeting CLI in Python + SQLite
+- 🚀 Just shipped: [Afterimage](https://github.com/omdkpatel810-ops/afterimage), which finds the photos an iPhone backup still remembers (encrypted backups included), and [Mini BERT](https://github.com/omdkpatel810-ops/mini-bert), a BERT built from scratch in PyTorch
 - 🔭 Next up: a booking system for a local furniture assembly business
 - 🌱 Learning: data structures & algorithms, SQL, REST APIs, LLM and RAG apps
 - 🗣️ Bilingual: English & French
@@ -49,6 +49,8 @@ Ten projects, built one at a time, each going public when it ships.
 | Real-time Collab Editor | WebSockets and concurrency | ⚪ Planned |
 | Fraud Detection | ML classification with model explainability | ⚪ Planned |
 | AI Code Review Agent | LLM agent that reviews pull requests as a GitHub App | ⚪ Planned |
+| [Afterimage](https://github.com/omdkpatel810-ops/afterimage) (bonus) | Reads Apple's backup format and Photos database, decrypts encrypted backups, writes Exif · 189 tests, 100% coverage, CI on Linux, macOS and Windows | ✅ Shipped |
+| [Mini BERT](https://github.com/omdkpatel810-ops/mini-bert) (bonus) | Transformer pre-trained from scratch · 52.1% on hidden words vs Google's BERT-Mini 51.4%; 85.5% on SST-2 sentiment | ✅ Shipped |
 
 ## 📘 Featured
 
