@@ -35,20 +35,13 @@ Currently looking for **software engineering co-op / internship** opportunities.
 
 ## 🚀 Build roadmap 2026–27
 
-Ten projects, built one at a time, each going public when it ships.
+Built one at a time, each going public when it ships.
 
 | Project | What it shows | Status |
 |---|---|---|
 | [Expense Tracker](https://github.com/omdkpatel810-ops/expense-tracker) | Python, SQLite migrations, budget alerts, charts · 143 tests, 99.8% coverage | ✅ Shipped |
-| Flex Booking System | Full-stack app for a real local business | 🟡 Up next |
-| PDF Q&A (RAG) | Retrieval-augmented generation | ⚪ Planned |
-| UofM CS Guide | AI course assistant + degree path recommender for UofM students | 🟡 In progress |
-| Lecture Notes AI | Speech-to-text + LLM summaries | ⚪ Planned |
-| API Gateway | Routing, rate limiting, caching, load testing, built from scratch | ⚪ Planned |
-| Infra Monitoring | Prometheus + Grafana observability | ⚪ Planned |
-| Real-time Collab Editor | WebSockets and concurrency | ⚪ Planned |
-| Fraud Detection | ML classification with model explainability | ⚪ Planned |
-| AI Code Review Agent | LLM agent that reviews pull requests as a GitHub App | ⚪ Planned |
+| Flex Booking System | Full-stack app for a real local business | 🟡 In progress |
+| [PDF Q&A (RAG)](https://github.com/omdkpatel810-ops/pdf-qa-rag) | Answers questions from PDFs with page citations, using a local AI model on ONNX Runtime and hybrid search · 22 of 25 right on a 30-question test, all 5 unanswerable questions declined | ✅ Shipped |
 | [Afterimage](https://github.com/omdkpatel810-ops/afterimage) (bonus) | Reads Apple's backup format and Photos database, decrypts encrypted backups, writes Exif · 189 tests, 100% coverage, CI on Linux, macOS and Windows | ✅ Shipped |
 | [Mini BERT](https://github.com/omdkpatel810-ops/mini-bert) (bonus) | Transformer pre-trained from scratch · 52.1% on hidden words vs Google's BERT-Mini 51.4%; 85.5% on SST-2 sentiment | ✅ Shipped |
 
